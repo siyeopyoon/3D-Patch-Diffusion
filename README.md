@@ -8,8 +8,4 @@ Abstract: 3D Computed Tomography (CT) offers invaluable geometric insights into 
 
 
 ## Acknowledgement
-We build our 3D Patch Diffusion upon the [EDM](https://github.com/NVlabs/edm) and [Patch Diffusion] https://github.com/Zhendong-Wang/Patch-Diffusion
-
-
-
 We thank [EDM] (https://github.com/NVlabs/edm) and [Patch Diffusion] (https://github.com/Zhendong-Wang/Patch-Diffusion) authors for providing the great code base.
