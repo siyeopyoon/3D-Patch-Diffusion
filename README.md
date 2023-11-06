@@ -12,4 +12,4 @@ We build our 3D Patch Diffusion upon the [EDM](https://github.com/NVlabs/edm) an
 
 
 
-We thank [EDM](https://github.com/NVlabs/edm) and [Patch Diffusion] https://github.com/Zhendong-Wang/Patch-Diffusion authors for providing the great code base.
+We thank [EDM] (https://github.com/NVlabs/edm) and [Patch Diffusion] (https://github.com/Zhendong-Wang/Patch-Diffusion) authors for providing the great code base.
