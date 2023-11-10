@@ -1,4 +1,4 @@
-## High-resolution 3D CT synthesis from Single X-ray Image using 3D Diffusion Models
+## High-resolution 3D CT synthesis from bi-directional X-ray Image using 3D Diffusion Models
 
 **High-resolution 3D CT synthesis from Single X-ray Image using 3D Diffusion Models**<br>
 Siyeop Yoon, Jay Sairam Pratap,Wen-Chih Liu, Matthew Tivnan, Hui Ren, Quanzheng Li, Neal Chen, Xiang Li
