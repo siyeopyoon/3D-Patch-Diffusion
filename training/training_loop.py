@@ -218,7 +218,7 @@ def training_loop(
             num_iters=num_iters+1
 
             loss.sum().mul(loss_scaling / batch_gpu_total / 2).backward()
-            dist.print0(f'num_iters is {num_iters}, loss is {loss.sum().mul(loss_scaling / batch_gpu_total / 2).cpu()}')
+
 
 
             # loss.mean().mul(loss_scaling / batch_mul).backward()
